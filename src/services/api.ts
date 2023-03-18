@@ -1,5 +1,5 @@
 import axios from 'axios'
-import { IUser, UserDTO } from '../App';
+import { IUser, UserDTO } from '../interfaces/interface';
 
 const URL = 'http://localhost:3000'
 
